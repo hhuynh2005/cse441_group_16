@@ -21,14 +21,14 @@
 
 ## 👥 2. Thành viên nhóm & Vai trò
 
-| STT | MSSV | Họ và tên | Vai trò |
-|:---:|:---:|:---|:---:|
-| 1 | **2351170599** | **Nguyễn Văn Huỳnh** | Nhóm trưởng |
-| 2 | **2151060296** | **Lê Anh Tuấn** | Thành viên |
-| 3 | **2251172394** | **NGUYỄN TRUNG KIÊN** | Thành viên |
-| 4 | **2351170629** | **Trần Anh Tuấn** | Thành viên |
+| STT | MSSV | Họ và tên | Vai trò | Nhiệm vụ chính phụ trách |
+|:---:|:---:|:---|:---:|:---|
+| 1 | **2351170599** | **Nguyễn Văn Huỳnh** | Nhóm trưởng | Kiến trúc tổng thể, Màn hình chính (Dashboard) & Quản lý danh mục |
+| 2 | **2151060296** | **Lê Anh Tuấn** | Thành viên | Cơ sở dữ liệu Offline (SQLite/Hive) & Nghiệp vụ Thu - Chi (CRUD) |
+| 3 | **2251172394** | **NGUYỄN TRUNG KIÊN** | Thành viên | Quét hóa đơn thông minh (AI OCR - Text Recognition & Camera) |
+| 4 | **2351170629** | **Trần Anh Tuấn** | Thành viên | Báo cáo, Thống kê biểu đồ (fl_chart) & Cài đặt / Tiện ích |
 
-*(Ghi chú: Nhiệm vụ chi tiết của từng thành viên sẽ được phân công và cập nhật cụ thể theo từng giai đoạn của dự án).*
+> 📌 **Chi tiết phân công & lộ trình từng Sprint:** Xem chi tiết tại [PHAN_CHIA_CONG_VIEC.md](PHAN_CHIA_CONG_VIEC.md).
 
 ---
 
